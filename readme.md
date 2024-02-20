@@ -8,7 +8,7 @@ L'objectif est de survivre a des vagues de rectangles rouges (aka zombies).
 
 ## Comment jouer
 
-[Une démo est disponible ici](TODO)
+[Une démo est disponible ici](https://elektrum-77.github.io/Z-scala/)
 
 On peut se déplacer avec les touches "zsqd" et/ou les flèches.
 Clique gauche permet de tirer (on peut spammer ou rester appuyer).
